@@ -4,7 +4,7 @@ Build a PWA for your Blogger Site using Cloudflare Workers and KV Store.
 
 ## Full Documentation
 
-Complete documentation is available at [fineshopdesign.com](https://www.fineshopdesign.com/2023/10/progressive-web-app.html).
+Complete documentation is available at [devchandel.blogspot.com](https://devchandel.blogspot.com/).
 
 ### Wrangler CLI
 
